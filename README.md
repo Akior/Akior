@@ -1,8 +1,4 @@
 <p align="center">
-<img width="66%" src="./achievements.svg"/>
-</p>
-
-<p align="center">
 <img width="66%" src="./stats.svg"/>
 </p>
 
